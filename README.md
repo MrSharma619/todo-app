@@ -41,5 +41,16 @@ once you are done with that setup. run this,
 mvnw.cmd azure-spring-apps:deploy
 ```
 
+
+
+![Screenshot 2024-07-19 195218](https://github.com/user-attachments/assets/4f96d17b-a556-414c-a664-c4332784a24e)
+
+
+
 and then it will be deployed and you can test.  
+
+
+
+![Screenshot 2024-07-19 195339](https://github.com/user-attachments/assets/93eb4343-cc4b-42d3-b3e5-cefdbb938ae9)
+
 
